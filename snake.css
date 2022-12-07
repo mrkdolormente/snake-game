@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+}
+
+#score {
+  text-align: center;
+  font-size: 140px;
+}
